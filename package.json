@@ -1,0 +1,25 @@
+{
+  "name": "wallettracker",
+  "version": "1.0.0",
+  "description": "Application de suivi des NFT sur Avalanche",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toonba/AvalancheNFTTracker.git"
+  },
+  "keywords": [
+    "\"blockchain",
+    "cryptocurrency",
+    "NFT",
+    "Avalanche\""
+  ],
+  "author": "Toonba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toonba/AvalancheNFTTracker/issues"
+  },
+  "homepage": "https://github.com/Toonba/AvalancheNFTTracker#readme"
+}
